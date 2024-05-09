@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olá, me chamo Rafael ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**Perals/Perals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Perals/Perals**  é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas idéias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em redes, segurança e infraestrutura de servidores em ambientes Windows e Linux.
+
+
+- 🌱 Atualmente estou aprendendo liguagens de programação JavaScript e C#.
+
+
+- ⚡ Minha vivência envolve atuação em redes, segurança e infraestrutura de servidores em ambientes Windows e Linux mas hoje estou buscando migrar para Dev.
+
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+## Estou aprendendo
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img oading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+          
+          
+          
