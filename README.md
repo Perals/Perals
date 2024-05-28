@@ -1,7 +1,7 @@
 # Olá, me chamo Rafael ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-**Perals/Perals**  é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+<!--**Perals/Perals**  é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.-->
 
 Aqui estão algumas idéias para você começar:
 
