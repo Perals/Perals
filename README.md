@@ -11,7 +11,7 @@ Aqui estão algumas idéias para você começar:-->
 - 🌱 Atualmente estou aprendendo liguagens de programação JavaScript e C#.
 
 
-- ⚡ Minha vivência envolve atuação em redes, segurança e infraestrutura de servidores em ambientes Windows e Linux mas hoje estou buscando migrar para Dev.
+- ⚡ Minha experiência abrange redes, segurança e infraestrutura de servidores em ambientes Windows e Linux, com um crescente interesse e desenvolvimento de habilidades na área de Dev.
 
 
 ## Ferramentas e Tecnologias
